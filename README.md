@@ -7,8 +7,8 @@ Salut ! Moi c’est **Marius**, passionné par la **cybersécurité offensive**,
 ## ⚙️ Projets et outils
 
 ### 🔧 Outils Pentest en Python
-- 🔍 [Scanner de ports](https://github.com/Marius-afk-web/git-pentest/blob/main/scanner/port_scanner.py) – Analyse des ports ouverts sur une cible
-- 🛡️ [Scanner de vulnérabilités Web](https://github.com/Marius-afk-web/git-pentest/blob/main/scanner/web_vulnerability_scanner.py) – Détection d’entrées sensibles (`/admin`, `.bak`, `robots.txt`, etc.)
+- 🔍 [Scanner de ports](https://github.com/Marius-afk-web/git-pentest/blob/main/scanner) – Analyse des ports ouverts sur une cible
+- 🛡️ [Scanner de vulnérabilités Web](https://github.com/Marius-afk-web/git-pentest/blob/main/vulnerabilite) – Détection d’entrées sensibles (`/admin`, `.bak`, `robots.txt`, etc.)
 - 🔐 Bruteforce basique – Automatisation d’attaque sur `/rest/user/login` avec dictionnaires internes
 - 🧪 Outils en développement : détection de failles classiques (XSS, LFI, etc.)
 
