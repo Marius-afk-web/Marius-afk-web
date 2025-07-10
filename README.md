@@ -24,7 +24,7 @@ Salut ! Moi c’est **Marius**, passionné par la **cybersécurité offensive**,
 | Plateforme      | Niveau / Rang actuel           |
 |------------------|-------------------------------|
 | 🧠 **RootMe**     | Niveau : `Trainee` / Rang mondial : #21058 | 
-| 🧠 **TryHackMe**  | Niveau : `Adept` (≥3000 points) / Rang mondial : #248739 |
+| 🧠 **TryHackMe**  | Niveau : `Adept` (≥3000 points) / Rang mondial : #210901 |
 
 *Objectif : valider une certification pentest d'ici cet été.*
 
