@@ -26,7 +26,7 @@ Salut ! Moi c’est **Marius**, passionné par la **cybersécurité offensive**,
 | 🧠 **RootMe**     | Niveau : `Trainee` / Rang mondial : #21058 | 
 | 🧠 **TryHackMe**  | Niveau : `Hacker` (≥4000 points) / Rang mondial : #156635 / top10% |
 
-*Objectif : valider une certification pentest d'ici cet été.*
+*Certification RS6092 (réaliser des tests d'intrusion / sécurité et pentesting)*
 
 ---
 
@@ -50,7 +50,11 @@ Salut ! Moi c’est **Marius**, passionné par la **cybersécurité offensive**,
 ## 🤝 Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/marius-chamarande-9b0534150)
-- 📫 Email : *[mchamarande@gmail.com]*
+- 📫 Email perso : *[mchamarande@gmail.com]*
+
+- 📫 Email pro : *[contact@pentestcyberconseil.fr]*
+- 🛡 Site : *www.pentestcyberconseil.fr*
+
 
 ---
 
