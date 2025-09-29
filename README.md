@@ -26,7 +26,7 @@ Salut ! Moi c’est **Marius**, passionné par la **cybersécurité offensive**,
 | 🧠 **RootMe**     | Niveau : `Trainee` / Rang mondial : #21058 | 
 | 🧠 **TryHackMe**  | Niveau : `Hacker` (≥4000 points) / Rang mondial : #156635 / top10% |
 
-*Certification RS6092 (réaliser des tests d'intrusion / sécurité et pentesting)*
+*Certification RS6092 (réaliser des tests d'intrusion / sécurité et pentesting) obtenue en Septembre 2025*
 
 ---
 
@@ -58,4 +58,4 @@ Salut ! Moi c’est **Marius**, passionné par la **cybersécurité offensive**,
 
 ---
 
-> 🧪 *Portfolio en constante évolution. Ce dépôt contient les projets que je peux partager publiquement.*
+> 🧪 *Portfolio en constante évolution.*
