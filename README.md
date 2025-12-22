@@ -25,6 +25,9 @@ Salut ! Moi c’est **Marius**, passionné par la **cybersécurité offensive**,
 |------------------|-------------------------------|
 | 🧠 **RootMe**     | Niveau : `Trainee` / Rang mondial : #21058 | 
 | 🧠 **TryHackMe**  | Niveau : `Hacker` (≥4000 points) / Rang mondial : #156635 / top10% |
+| 🧠 **Cyberini**  | Niveau : `Cyber Detective` (350 points) / Rang : #411 / 4557 joueurs |
+
+Mon profile se trouve ici => https://cyberini.com/profil/marius-chamarande/
 
 *Certification RS6092 (réaliser des tests d'intrusion / sécurité et pentesting) obtenue en Septembre 2025*
 
@@ -39,11 +42,13 @@ Salut ! Moi c’est **Marius**, passionné par la **cybersécurité offensive**,
 
 ---
 
-## 🚧 Projets futurs
+## 🚧 Projets futurs / en cours
 
 - 🔄 API Web sécurisée en Flask + base de données carbone
 - 📡 Intégration d’un scanner réseau multithreadé
 - 📊 Tableau de bord React pour visualisation de vulnérabilités
+- 🤖 Agent IA pour Pentest
+- 🏰 Bastion VPN / lab de Pentest + NAS maison
 
 ---
 
