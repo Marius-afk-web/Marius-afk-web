@@ -24,7 +24,7 @@ Salut ! Moi c’est **Marius**, passionné par la **cybersécurité offensive**,
 | Plateforme      | Niveau / Rang actuel           |
 |------------------|-------------------------------|
 | 🧠 **RootMe**     | Niveau : `Trainee` / Rang mondial : #21058 | 
-| 🧠 **TryHackMe**  | Niveau : `Hacker` (≥4000 points) / Rang mondial : #127135 / top 7% |
+| 🧠 **TryHackMe**  | Niveau : `Hacker` (≥4000 points) / Rang mondial : #119833 / top 6% |
 | 🧠 **Cyberini**  | Niveau : `Cyber Detective` (350 points) / Rang : #411 / 4557 joueurs |
 
 Mon profile se trouve ici => https://cyberini.com/profil/marius-chamarande/
