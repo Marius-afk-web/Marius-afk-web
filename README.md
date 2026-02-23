@@ -17,6 +17,9 @@ Salut ! Moi c’est **Marius**, passionné par la **cybersécurité offensive**,
 - 🧾 **Scanner de tickets** – App Expo/React Native, OCR + machine learning embarqué
 - 📦 APK : bientôt disponibles via la section Releases
 
+### 🚀 Projets en cours
+- **Jarvis-core** : assistant local (Flask) + toolbox (nmap, OSINT, etc.)
+
 ---
 
 ## 🧠 Plateformes de formation
