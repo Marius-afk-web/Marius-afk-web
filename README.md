@@ -29,7 +29,7 @@ Salut ! Moi c’est **Marius**, passionné par la **cybersécurité offensive**,
 |------------------|-------------------------------|
 | 🧠 **RootMe**     | Niveau : `Trainee` / Rang mondial : #21058 | 
 | 🧠 **TryHackMe**  | Niveau : `Wizard` (≥12000 points) / Rang mondial : #70606 / top 4% |
-| 🧠 **Cyberini**  | Niveau : `Cyber Analyste` (750 points) / Rang : #221 / 5061 joueurs |
+| 🧠 **Cyberini**  | Niveau : `Cyber Analyste` (870 points) / Rang : #190 / 5069 joueurs |
 
 Mon profile se trouve ici => https://cyberini.com/profil/marius-chamarande/
 
