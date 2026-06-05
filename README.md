@@ -27,7 +27,7 @@ Salut ! Moi c’est **Marius**, passionné par la **cybersécurité offensive**,
 
 | Plateforme      | Niveau / Rang actuel           |
 |------------------|-------------------------------|
-| 🧠 **RootMe**     | Niveau : `Trainee` / Rang mondial : #21058 | 
+| 🧠 **RootMe**     | Niveau : `Trainee` / Rang mondial : #22558 | 
 | 🧠 **TryHackMe**  | Niveau : `Wizard` (≥12000 points) / Rang mondial : #70606 / top 4% |
 | 🧠 **Cyberini**  | Niveau : `Cyber Analyste` (870 points) / Rang : #190 / 5069 joueurs |
 
