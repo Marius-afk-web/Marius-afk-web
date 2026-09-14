@@ -11,6 +11,7 @@ Salut ! Moi c’est **Marius**, passionné par la **cybersécurité offensive**,
 - 🛡️ [Scanner de vulnérabilités Web](https://github.com/Marius-afk-web/git-pentest/blob/main/vulnerabilite) – Détection d’entrées sensibles (`/admin`, `.bak`, `robots.txt`, etc.)
 - 🔐 Bruteforce basique – Automatisation d’attaque sur `/rest/user/login` avec dictionnaires internes
 - 🧪 Outils en développement : détection de failles classiques (XSS, LFI, etc.)
+- 🧰​ [Framework-Pentest](https://github.com/Marius-afk-web/Framework/blob/main/PentestFramework) - Framework d'automatisation de tests d'intrusion développé en Python. Outil complet pour la reconnaissance, le scanning, l'exploitation web et la génération de rapports.
 
 ### 📱 Applications mobiles (en cours)
 - 🌿 **Calculateur d’impact carbone** – Analyse automatique d’un ticket de caisse (OCR) + suggestion écoresponsable
