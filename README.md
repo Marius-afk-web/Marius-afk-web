@@ -13,14 +13,15 @@ Salut ! Moi c’est **Marius**, passionné par la **cybersécurité offensive**,
 - 🧪 Outils en développement : détection de failles classiques (XSS, LFI, etc.)
 - 🧰​ [Framework-Pentest](https://github.com/Marius-afk-web/Framework/blob/main/README.md) - Framework d'automatisation de tests d'intrusion développé en Python. Outil complet pour la reconnaissance, le scanning, l'exploitation web et la génération de rapports.
 
-### 📱 Applications mobiles (en cours)
+### 📱 Applications mobiles (Dispo playstore)
 - 🌿 **Calculateur d’impact carbone** – Analyse automatique d’un ticket de caisse (OCR) + suggestion écoresponsable
 - 🧾 **Scanner de tickets** – App Expo/React Native, OCR + machine learning embarqué
-- 📦 APK : bientôt disponibles via la section Releases
+- https://play.google.com/store/apps/details?id=com.carbontrack.app&pcampaignid=web_share
 
 ### 🚀 Projets en cours
 - 🤖 **Jarvis-core** : assistant local (Flask) + toolbox (nmap, OSINT, etc.)
 - 🎲 **RPG mobile narratif** : jeu d’aventure en pixel art inspiré de Donjons & Dragons, avec choix interactifs, jets de dés, quêtes, progression du personnage et univers fantasy sombre
+- > jeu en Alpha fermé - release bientôt sur Play Store / <code>https://marius-afk-web.fr/lotes/</code>
 
 ---
 
