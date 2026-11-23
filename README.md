@@ -21,7 +21,7 @@ Salut ! Moi c’est **Marius**, passionné par la **cybersécurité offensive**,
 ### 🚀 Projets en cours
 - 🤖 **Jarvis-core** : assistant local (Flask) + toolbox (nmap, OSINT, etc.)
 - 🎲 **RPG mobile narratif** : jeu d’aventure en pixel art inspiré de Donjons & Dragons, avec choix interactifs, jets de dés, quêtes, progression du personnage et univers fantasy sombre
-- > jeu en Alpha fermé - release bientôt sur Play Store / <code>https://marius-afk-web.fr/lotes/</code>
+- > jeu disponible sur Google Play Store - https://play.google.com/store/apps/details?id=com.pentestcyberconseil.legendsoftheeldritchstone&pcampaignid=web_share / <code>https://marius-afk-web.fr/lotes/</code>
 
 ---
 
